@@ -1,0 +1,10 @@
+SJF
+Proc1
+0
+5
+Proc2
+0
+8
+Proc3
+1
+3

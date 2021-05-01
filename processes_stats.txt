@@ -1,0 +1,41 @@
+FCSF PROCESSES:
+Process # 1 || ARRIVAL: 0 - BURST: 2 - WAITING: 0 - TURNAROUND : 2
+Process # 2 || ARRIVAL: 0 - BURST: 8 - WAITING: 2 - TURNAROUND : 10
+Process # 4 || ARRIVAL: 0 - BURST: 9 - WAITING: 10 - TURNAROUND : 19
+Process # 3 || ARRIVAL: 1 - BURST: 6 - WAITING: 18 - TURNAROUND : 24
+
+FCFS STATISTICS: 
+THROUGHPUT = 6  ||  AVERAGE WAITING TIME = 7  ||  AVERAGE TURNAROUND TIME = 13
+-----------------------------------------------------------------------------------
+
+SJF PROCESSES:
+Process # 1 || ARRIVAL: 0 - BURST: 5 - WAITING: 0 - TURNAROUND : 5
+Process # 3 || ARRIVAL: 1 - BURST: 3 - WAITING: 4 - TURNAROUND : 7
+Process # 2 || ARRIVAL: 0 - BURST: 8 - WAITING: 8 - TURNAROUND : 16
+
+SJF STATISTICS: 
+THROUGHPUT = 5  ||  AVERAGE WAITING TIME = 4  ||  AVERAGE TURNAROUND TIME = 9
+-----------------------------------------------------------------------------------
+
+RR PROCESSES:
+Process # 1 || ARRIVAL: 1 - BURST: 9 - WAITING: 20 - TURNAROUND : 29
+Process # 3 || ARRIVAL: 3 - BURST: 11 - WAITING: 17 - TURNAROUND : 28
+Process # 2 || ARRIVAL: 7 - BURST: 10 - WAITING: 34 - TURNAROUND : 44
+Process # 4 || ARRIVAL: 5 - BURST: 23 - WAITING: 94 - TURNAROUND : 117
+
+RR STATISTICS: 
+THROUGHPUT = 13  ||  AVERAGE WAITING TIME = 41  ||  AVERAGE TURNAROUND TIME = 54
+-----------------------------------------------------------------------------------
+
+SRTF PROCESSES:
+Process # 5 || ARRIVAL: 5 - BURST: 3 - WAITING: 0 - TURNAROUND : 3
+Process # 4 || ARRIVAL: 11 - BURST: 2 - WAITING: 0 - TURNAROUND : 2
+Process # 2 || ARRIVAL: 3 - BURST: 7 - WAITING: 7 - TURNAROUND : 14
+Process # 6 || ARRIVAL: 0 - BURST: 11 - WAITING: 14 - TURNAROUND : 25
+Process # 1 || ARRIVAL: 7 - BURST: 15 - WAITING: 18 - TURNAROUND : 33
+Process # 3 || ARRIVAL: 3 - BURST: 4 - WAITING: 35 - TURNAROUND : 39
+
+SRTF STATISTICS: 
+THROUGHPUT = 7  ||  AVERAGE WAITING TIME = 12  ||  AVERAGE TURNAROUND TIME = 19
+-----------------------------------------------------------------------------------
+

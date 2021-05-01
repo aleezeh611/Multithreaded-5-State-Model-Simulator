@@ -1,0 +1,19 @@
+SRTF
+Proc 1
+7
+15
+Proc 2
+3
+7
+Proc 3
+3
+4
+Proc 4
+11
+2
+Proc 5
+5
+3
+Proc 6
+0
+11
