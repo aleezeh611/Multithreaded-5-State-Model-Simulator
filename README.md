@@ -3,5 +3,6 @@ Multithreaded program to demonstrate a all 4 scheduling algorithms and their fiv
 * FCFS
 * Round Robin
 * Shortest Job First
+
 Each algorithm is running simultaneously using multithreading and each state is written separately communicating via pipes. 
 This code has been written in C++ for linux ubuntu OS
